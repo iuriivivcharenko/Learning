@@ -1,0 +1,2 @@
+fff = "Anna"
+print(fff)
